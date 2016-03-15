@@ -1,0 +1,95 @@
+﻿빌드 시작: 2016-03-15 오후 7:21:18
+     1>2 노드의 "C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Term Project 1\Term Project 1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AddressBookDef.cpp
+         AddressBookDef.cpp
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(281): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(353): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(354): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(355): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(356): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(357): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(403): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\time.inl(112) : 'localtime' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\addressbookdef.cpp(406): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SMSDef.cpp execute.cpp
+         execute.cpp
+         SMSDef.cpp
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(12): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(19): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(33): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(34): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(35): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(36): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(37): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(55): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(56): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(62): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(71): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(72): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(95): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(96): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(101): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(102): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(103): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\lee jiwoong\documents\visual studio 2012\projects\term project 1\term project 1\smsdef.cpp(105): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : 'strcat' 선언을 참조하십시오.
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Debug\Term Project 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Debug\Term Project 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Debug\Term Project 1.lib" /MACHINE:X86 Debug\AddressBookDef.obj
+         Debug\execute.obj
+         Debug\SMSDef.obj
+         Term Project 1.vcxproj -> C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Debug\Term Project 1.exe
+     1>"C:\Users\Lee JiWoong\Documents\Visual Studio 2012\Projects\Term Project 1\Term Project 1\Term Project 1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:30.88
